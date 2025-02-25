@@ -13,7 +13,7 @@ import io
 
 # Configuration initiale
 st.set_page_config(page_title="Championnat Marocain de Judo - Tableau de Bord", layout="wide", page_icon="🥋")
-st.markdown("<h1 style='text-align: center; color: #2E86C1;'>Championnat Marocain de Judo 2022-2023</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: #2E86C1;'>Championnat Marocain de Judo 2024-2025</h1>", unsafe_allow_html=True)
 
 # Fonctions utilitaires
 def categorie_poids(poids):
